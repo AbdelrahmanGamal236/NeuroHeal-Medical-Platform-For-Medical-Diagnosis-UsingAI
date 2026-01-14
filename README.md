@@ -1,7 +1,7 @@
 # NeuroHeal - Medical Platform for Medical Diagnosis
 
 NeuroHeal is a medical platform designed for advanced medical diagnosis leveraging AI and machine learning techniques.
-![Page 1](neuro.jpg)
+![Page 1](neuro.jpeg)
 ## Overview
 
 NeuroHeal aims to revolutionize medical diagnosis by integrating cutting-edge technologies in AI, machine learning, and medical imaging. This platform provides tools for automated analysis, prediction, and decision support in medical scenarios, particularly focusing on neurology and related fields.
